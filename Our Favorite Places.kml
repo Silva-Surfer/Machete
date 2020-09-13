@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1fIT56GkWLSjFWlC3W5SnZP6OBRHVPfs4">
+	<name>Our Favorite Places</name>
+	<gx:CascadingStyle kml:id="__managed_style_1C27878A3215BE0EBB65">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2329193B7615BE0EBB65">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_00ED26CABC15BE0EBB65">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1C27878A3215BE0EBB65</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2329193B7615BE0EBB65</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0C23E0200E15BE0EBB63">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ff4f4737</bgColor>
+				<displayMode>fullscreen</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_109744D69E15BE0EBB61">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ff4f4737</bgColor>
+				<displayMode>fullscreen</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_09C446A48B15BE0EBB61">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_109744D69E15BE0EBB61</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0C23E0200E15BE0EBB63</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0A94B3D5A715A529F501">
+		<name>Our Favorite Places </name>
+		<description><![CDATA[<div>We miss going places. We miss our favorite restaurants and dive bars and theaters and concert halls and hair salons and coffee shops and outlet malls and gyms and bowling alleys and corner stores and dorm rooms and roadside attractions and childhood homes and neighborhood parks and vacation destinations and grandma's house.&nbsp;<br></div><div><br></div><div>We know you do, too.&nbsp;<br></div><div><br></div><div>We'll show you ours if you show us yours.&nbsp;<br></div><div><br></div><div>We can even go together.&nbsp;<br></div><div><br></div><div><br></div>]]></description>
+		<styleUrl>#__managed_style_09C446A48B15BE0EBB61</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcjBQemZldUlOSmlTWEo1ME1jQ1RhWHlwNlhpeXR3SG1LMHJhYjZQU203ZzB2SEpTQ2V4NlM1eDBhVGg5SDkyK1RUdmUrRUxvbjV6RHF4ZTd4RzI2M1M1bTRaMVJUOWF4UHJkYm5TU0RZdXRrUFFDZSs1Z3lKZU16L3o5TnNqcC9kL1RmdEN0MGVuaUZ4L0RFVkZoUFU3cTNvOHE1SmNEN3pCbEpMa3RyZFFHRjdwUm5uaDR0Mk1YTjVwZEZ1Z3pJZEdiRC81YnBVRnlHWXRNZGwvWGlmUUxWNERmQktOMTVCNHFuZXdMSjRDYitLc3ljYmo3SWdJbzhHdTJKYWFDUFRJRVgyMEdEZm9BRTVDYWwySDhpcDR3b0hTT3c9PQ">
+				<gx:ImageUrl>https://doc-0g-14-mymaps.googleusercontent.com/untrusted/hostedimage/ehl0h9et3rr8fh9e64cemg8puc/aap99saak94h4dd4n1pdj7c7ic/1600020461000/RGqotgssSGB0YGWYgeyJEsml-JoqSz_4/09605093484831195373/5AF2TALqtjVakOWUmKsqlF91zUTMtdyDoEZWqQ8ODsNILtqQxBTzep3GdCdvnxGhPACb74q_10Ha7yCdwbQ5EvkQzzZV1aeU9YzgkVDUO5H8tMW1qkaNvhG7rFxniybhDHQ5OYlXEj1bbSbGECeEscMJaqYzmR7leOygMqjVu6ltCJ7uOBRUp1MJ8IKOWosGalVp66QBDkUaOP-DLVj9TCraP8hIPb8HvFTJBYFzq4LJeYv2OY4bJTrYB4ZFZBchFJsdeuzUGxE6dUV2W-Qr3bNAmPPoelVwaOQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+	</Placemark>
+	<Placemark id="0395C14C6015A535032C">
+		<name>Annie&apos;s Favorite Place</name>
+		<description><![CDATA[<div>Most of my childhood summers were spent at camp on the shores of Lake Finley. One year I almost drowned during a relay race and the hot ski director, Joel Rozansky, had to jump in and save me. His sunscreen always smelled like creamsicles. I love creamsicles.&nbsp;<br></div>]]></description>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>fife-media:AF1QipMsX76FZhMizjJMUwYuhbgh2JTW6YuKJpAifXkG</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>-89.41762219999961</longitude>
+			<latitude>45.9066639000005</latitude>
+			<altitude>499.3598019441558</altitude>
+			<heading>24.22666254156053</heading>
+			<tilt>82.80617832973279</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.99999999999999</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_00ED26CABC15BE0EBB65</styleUrl>
+		<Point>
+			<coordinates>-89.4188016923962,45.9101730126302,492.6181365388358</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04AF1F659615AF128988">
+		<name>Eileen&apos;s Favorite Place </name>
+		<description><![CDATA[<div><span>Throughout my childhood, my family would camp in Peninsula State Park with all my cousins.&nbsp; We would wear our bathing suits under our clothes on the drive up there so that we could find the path to the beach and go swimming the moment we all pulled into our campsites, leaving our parents to set up camp (and get out of their hair).&nbsp; We would ride our bikes to the camp store to buy candy and ice cream cones, watch sunsets from Sven's Bluff, see plays by the Peninsula Players in the ampitheater, roast marshmallows and sing songs around the campfire each night, but my all time favorite thing to do was climb Eagle Tower.&nbsp; You could see for miles from the top, and the view was spectacular.&nbsp; If I could take my last breath from the top of Eagle Tower, I would die happy.</span><br></div>]]></description>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>fife-media:AF1QipOxeuGNfudJ9O3ZNA1DaqTFD3BTYLjuG9amN_Im</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>-87.20168349999997</longitude>
+			<latitude>45.16195419999999</latitude>
+			<altitude>247.0548934594116</altitude>
+			<heading>113.535384868641</heading>
+			<tilt>94.42812442629312</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.99999999999999</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_00ED26CABC15BE0EBB65</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-87.20168349999997,45.16195419999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01F38F2BBD15AA790F81">
+		<name>Trevor&apos;s Favorite Place </name>
+		<description><![CDATA[<div><span>I set great store by the act of going to see movies in theaters. The Music Box seats are cramped together with no leg room but are bolted into the ground so firmly I can brace my knees against the seat in front of me without disturbing the person sitting there. During&nbsp;the show, I'll drink two beers that I've smuggled in and I will pride myself on knowing general narratives well enough to pick the best times to run to the bathroom.</span><br></div>]]></description>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>0dczuZlUlHt7bPJSHB-ffg</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>-87.66411260718436</longitude>
+			<latitude>41.94972401723095</latitude>
+			<altitude>185.0855560304008</altitude>
+			<heading>33.65726974561574</heading>
+			<tilt>113.6415080737257</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.99999999348397</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_00ED26CABC15BE0EBB65</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-87.66411260718436,41.94972401723095,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0602C92F3C15A5728A82">
+		<name>Ale&apos;s Favorite Place </name>
+		<description><![CDATA[<p>My family has had an above ground pool for about 11 years. At first I’d step on my tiptoes to keep my mouth above the water. I loved pushing myself off the walls to feel the surge of energy rush around me as I flew across. Now the water reaches my chest and I pull my baby cousins across the water, skipping along the surface, delighted.<br></p><div>
+  
+
+<br></div><div><br></div>]]></description>
+		<LookAt>
+			<longitude>-88.03664298883288</longitude>
+			<latitude>41.93831066009987</latitude>
+			<altitude>229.798977494883</altitude>
+			<heading>-130.7955404040705</heading>
+			<tilt>44.99582769431626</tilt>
+			<gx:fovy>34.99999999999999</gx:fovy>
+			<range>105.6023924093643</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00ED26CABC15BE0EBB65</styleUrl>
+		<Point>
+			<coordinates>-88.0368283369081,41.93841216983487,225.3522096006801</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FB01FD65815AA85CA3A">
+		<name>Sam&apos;s Favorite Place</name>
+		<description><![CDATA[<div><span>On Lake Blass in the Wisconsin Dells, I met three of my closest friends. We would always play euchre together, and to this day we try to schedule virtual games whenever we can.</span><br></div>]]></description>
+		<LookAt>
+			<longitude>-89.80780917759465</longitude>
+			<latitude>43.59488067492401</latitude>
+			<altitude>262.4001966420915</altitude>
+			<heading>137.3529566514742</heading>
+			<tilt>44.99478117699537</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>791.7748853801459</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00ED26CABC15BE0EBB65</styleUrl>
+		<Point>
+			<coordinates>-89.8065926,43.5971641,262.6934492253991</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0009C2BDCB15AA568F09">
+		<name>Erin&apos;s Favorite Place</name>
+		<description><![CDATA[<div><span>We brought our dog Paloma here once. It's 40 acres, fenced in, and meant specifically for dogs and their owners. There's a lake in the middle, forest, and prairie grass that Paloma could run through. Nothing is too dense, so you could always see Paloma, but letting her run around without abandon was beyond magical. At one point, while Paloma was romping through the prairie grass, I said to my husband, "I don't want Paloma to die, but I hope this is what her heaven will be like."</span><br></div>]]></description>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>fife-media:AF1QipMeuDmGdS69xvpHNU44PVZup3cQByehoH1s188m</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>-87.86487340000008</longitude>
+			<latitude>42.20932340000004</latitude>
+			<altitude>205.8579339811716</altitude>
+			<heading>324.6704587161714</heading>
+			<tilt>79.0238007728268</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.99999999999999</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_00ED26CABC15BE0EBB65</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-87.86487340000008,42.20932340000004,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D10F182BC15AA81A039">
+		<name>Ida&apos;s Favorite Place </name>
+		<description><![CDATA[<div><span>"The Island" San Francisco, CA: This was the name that my best friend in high school Quetzal<span>&nbsp;</span></span><i>(pronounced Ket-zal</i><span>) and I came up with for a section of carpet in my childhood bedroom between my sister and my loft beds. Quetzal and I would sit there on weekend nights from about 2006-2010, laughing, crying and talking about absolutely everything, our teachers, our families, Barrack Obama, and blowjobs. Especially blowjobs. Quetzal is a photographer in England now and after my sister and I left for college my parents moved into that bedroom.</span><br></div>]]></description>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>fife-media:AF1QipNybFiJLvrKz3gqdJT5L_kZhpB6r3w_YkhLcw8P</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>-122.4754048999999</longitude>
+			<latitude>37.80872849999999</latitude>
+			<altitude>44.81183589543621</altitude>
+			<heading>4.902223122184862</heading>
+			<tilt>92.49285034153294</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.99999999999999</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_00ED26CABC15BE0EBB65</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.4754048999999,37.80872849999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09C61F41F815AA5991F6">
+		<name>Tom&apos;s Favorite Place</name>
+		<description><![CDATA[<div><span>I studied for a year in San Francisco on an international exchange program, and spent a fair amount of time seeking out places with broad vistas of the city. I found none better than Corona Heights, tucked out of the way beside Buena Vista Park. It was always a delight to spot the giant rainbow flag at the corner of Castro and Market, and to stare down the diagonal of Market Street all the way to the Ferry Building.</span><br></div>]]></description>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>fife-media:AF1QipOVQiwSYP2flp4Y6uvCwQX-OkUs3Iz3yriOBLBl</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>-122.4392774</longitude>
+			<latitude>37.7651616</latitude>
+			<altitude>149.0572744839413</altitude>
+			<heading>53.50247740323223</heading>
+			<tilt>79.18665939192566</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.99999999999999</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_00ED26CABC15BE0EBB65</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.4392774,37.7651616,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="015F6B79FD15B9E5F23A">
+		<name>Kate&apos;s Favorite Place </name>
+		<description><![CDATA[<div><span>There is a large, foreboding sand dune at this beach that I ran up alone when I was around 13. Nobody in my family believed me when I said I made it to the top. I found the most spectacular view up there. If you don't believe me, go see for yourself.</span><br></div>]]></description>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>fife-media:AF1QipMkUOfqBfiKSl8ssCFhBNW0CWuJ3rEfjsjbd7fJ</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>-123.9712904999997</longitude>
+			<latitude>45.21509119999984</latitude>
+			<altitude>10.45100346328316</altitude>
+			<heading>266.1591178360944</heading>
+			<tilt>118.9528669286188</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.99999999999999</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_00ED26CABC15BE0EBB65</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-123.9712904999997,45.21509119999984,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AFA319E4515AA6C67B7">
+		<name>Abby&apos;s Favorite Place </name>
+		<description><![CDATA[<div><span>We spent 2 weeks every summer growing up in St. Joseph, MI. We still go, but not as consistently. There, there's a swingset&nbsp;in the sand that faces the beach. This swingset, to me, is a great reminder of how time has passed and I have changed over the years. I remember being afraid&nbsp;of the swings when I was really young. I remember loving the swings later on. I remember thinking the swings were lame when I&nbsp; was a preteen. I remember returning to the swings in college to smoke and drink beer with friends. Now, the swings make me nauseous, but through each phase, it's always been my favorite place in the world to watch the sunset.&nbsp;</span><br></div>]]></description>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>fife-media:AF1QipPYfz9-0eRX-6niJRbOVVyK_jr6LHXO7JGV1VIx</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>-86.48795359999957</longitude>
+			<latitude>42.11056230000013</latitude>
+			<altitude>180.684017281919</altitude>
+			<heading>7.657405136428235</heading>
+			<tilt>88.66908046374004</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.99999999999999</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_00ED26CABC15BE0EBB65</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-86.48795359999957,42.11056230000013,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04F493C43B15AEFA3749">
+		<name>JoAnn&apos;s Favorite Place</name>
+		<description><![CDATA[<div><span>Utowana Beach, Lake Winnebago (on a warm summer day before the lakeflies arrive and the lake turns green).&nbsp; It would have to be a roadtrip in memory only. The cottage has been replaced with a nice year-round home, but the lakefront hasn't changed. There was nothing like cruising down the nearly deserted Lake Park Road with the top down and the radio blaring! Can't do that now because of the growth of the city all the way out to the lake, with stop signs and round-abouts; but in my mind (and on my imagined roadtrip in my mind) it's the mid-70's and I've just stopped at the corn stand to buy 10 ears for $1.00!</span><br></div>
+  
+
+]]></description>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>dysQVmUsixa_8kD1sMP7zg</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>-88.36348593631173</longitude>
+			<latitude>44.20440495849911</latitude>
+			<altitude>231.4383567992444</altitude>
+			<heading>172.6314264085356</heading>
+			<tilt>95.38591831474956</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.99990261313681</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_00ED26CABC15BE0EBB65</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-88.36348593631173,44.20440495849911,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B27DB809615AEFD906A">
+		<name>Maria&apos;s Favorite Place </name>
+		<description><![CDATA[<div><span>My favorite place is driving in our Toyota Highlander with my whole family. The car is usually very noisy, because my sister has a loud voice and winds my brother up and I have to raise my voice to be heard over them and then my dad will tell us all to be quiet because this song "is one of the best songs of all time". My mom usually falls asleep. I like being in a car with all of them at once because it's when we feel the most like a family.&nbsp;</span><br></div>]]></description>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>g7kEbYA113RcYv6jiliAxg</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>-71.80362005399363</longitude>
+			<latitude>42.28923654552538</latitude>
+			<altitude>155.1861114501953</altitude>
+			<heading>347.832616684835</heading>
+			<tilt>91.6180942007375</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.9999999996886</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_00ED26CABC15BE0EBB65</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-71.80362005399363,42.28923654552538,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FE48DC41315AA530181">
+		<name>Kurt&apos;s Favorite Place</name>
+		<description><![CDATA[<div dir="ltr">When you eat the chicken at El Pollo Rico, you will lose your mind. For real, the most vivid euphoric fantasy dream I’ve ever had is quickly pushed aside in favor of my daily meditations on eating a plate of food at this no-frills counter service spot, serving rotisserie Peruvian chicken with a bunch of sides, garlic mayo and that crazy green sauce that I still don’t know what’s in it.&nbsp;<br></div><div dir="ltr"><br></div><div dir="ltr">I went here weekly as a high schooler, in a suburb of DC that has somehow managed to maintain the integrity of the South American, Asian and African immigrant communities (R.I.P. Silver Spring). Getting the food is not a pleasant experience, as you are shuffled through a single-file line while the person taking your order simultaneously hacks at golden crisp carcasses. You get used to it, though, and you start to feel like you know the code.&nbsp;<br></div><div dir="ltr"><br></div><div dir="ltr">At some point in the early 2000’s, the whole cafe burnt down amidst a pending tax evasion investigation, and somehow they came back unscathed. They even survived a complete architectural overhaul of the strip mall it sits in, so I am convinced that God takes a part in the sanctity of ‘The Rich Chicken.’<br></div>]]></description>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>7bf2Iu2AmzdWU7WUiKjqXg</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>-77.05249245909238</longitude>
+			<latitude>39.04122527077215</latitude>
+			<altitude>140.9156188964844</altitude>
+			<heading>337.8557321396913</heading>
+			<tilt>86.94914042726118</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.99999999999576</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_00ED26CABC15BE0EBB65</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-77.05249245909238,39.04122527077215,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AC4FB418315AEFFC675">
+		<name>Emma&apos;s Favorite Place </name>
+		<description><![CDATA[<div><span>Today I wish I could go to the Williamsburg Bridge in New&nbsp;York City:&nbsp; I've walked across this bridge dozens of times over a dozen years and I always feel a little changed when I reach the other side.&nbsp; I love the bridge's red metal frame.&nbsp; I love its length, how it takes a bit of time to cross, and a substantial portion is walking over water.&nbsp; When I was 18 and living in a new place for the first time I walked across giddy, holding hands and smoking cigarettes with my then-boyfriend.&nbsp; It's 12 years later and my brother just moved to Brooklyn, I wish so much we could take a long&nbsp;walk across the East River and stand on the sidewalk eating a sesame pancake sandwich when we reached the other side.</span><br></div>]]></description>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>oDZdjoycl121kzn_9oHSpw</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>-73.97559707056728</longitude>
+			<latitude>40.71374748310359</latitude>
+			<altitude>17.20507504289924</altitude>
+			<heading>90.30708845674258</heading>
+			<tilt>89.32971106491213</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.99999999999999</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_00ED26CABC15BE0EBB65</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-73.97559707056728,40.71374748310359,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0156DE97F315AA5F876D">
+		<name>Mike&apos;s Favorite Place </name>
+		<description><![CDATA[<div><span>My favorite place in the world is the Koelner Dom, the cathedral in Cologne. I saw it for the first time when I lived in Germany for three months, and it's the very last place I went to before it was time to come back to the US. It has an immensity, and a reverence, and an age to it that transcends religion or culture. You disappear into it.&nbsp;</span><br></div>]]></description>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>fife-media:AF1QipMA0nw5g8FltXNAdBT2raamiS6OhxMxPA-YywpK</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>6.956459600000137</longitude>
+			<latitude>50.94123740000006</latitude>
+			<altitude>51.10474381582856</altitude>
+			<heading>38.9566063167908</heading>
+			<tilt>135.5721730385803</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.99999999999999</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_00ED26CABC15BE0EBB65</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>6.956459600000137,50.94123740000006,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06E2B1828715AA67654F">
+		<name>Vic&apos;s Favorite Place </name>
+		<description><![CDATA[<div>I went here when I studied abroad in Botswana. Cape Town feels like the birthplace of all other places because it has such a variety of terrains. They have beach towns, big city vibes, the countryside, and mountain life are wrapped into one. I went on a full-day bus tour and saw all of this throughout the day.&nbsp;<br></div><div><br></div><div>I got to see penguins, ride through the countryside. bike through flatlands, see prehistoric-looking forest preserves and end at the southeasternmost point of the African continent.&nbsp;<br></div><div><br></div><div>I can't wait to go back-I'd honestly retire there.&nbsp;<br></div>]]></description>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>WxtXhifCSp232AEAcRCmrA</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>18.40773156108967</longitude>
+			<latitude>-33.91631121846996</latitude>
+			<altitude>267.4691111327818</altitude>
+			<heading>123.3119166850394</heading>
+			<tilt>83.09149579382924</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.99998330120113</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_00ED26CABC15BE0EBB65</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>18.40773156108967,-33.91631121846996,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05C5A80D2A15B9ECB0B0">
+		<name>JoAnna&apos;s Favorite Place </name>
+		<description><![CDATA[<div>41°57'06.9"N 87°38'23.5"W<br></div><div><br></div><div><span>I first started hanging out here after my therapy sessions. I always had Wednesdays off so I could watch the lake for as long as I wanted while I processed the day's session. One Wednesday I went to this spot and the sunset was the pinkest I'd ever seen it. I have in my personal collection, hundreds of pictures of the lake, from this very spot, not unlike that scene in (weirdly related to The Neo-Futurists)<span>&nbsp;</span></span><i>Operator, 2016.&nbsp;</i><br></div>]]></description>
+		<LookAt>
+			<longitude>-87.64006363046279</longitude>
+			<latitude>41.95189238259778</latitude>
+			<altitude>192.1987912036302</altitude>
+			<heading>75.73313700812923</heading>
+			<tilt>44.99628725041618</tilt>
+			<gx:fovy>34.99999999999959</gx:fovy>
+			<range>738.2461733035598</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00ED26CABC15BE0EBB65</styleUrl>
+		<Point>
+			<coordinates>-87.63976316942679,41.95194920249264,174.8804725700709</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0315C8E51415B094E0E1">
+		<name>Lara&apos;s Favorite Place </name>
+		<description><![CDATA[<div>My favorite place in the whole world is a seat on the Brown Line train headed South from the Damen station. I love riding the EL more than anything in the world, and Damen is just far enough North that you'll almost always get a seat. You can read a book, stare out the window, or eavesdrop on a nearby conversation. No one expects anything from you while you ride the train. I used to ride the train downtown every morning and there was often this one very rude woman that would complain when people would stand too close to her during rush hour. I'd look at her and always wonder how someone could have enough energy to be that hateful so early in the morning. I think I would cry if I saw her in a train car today.<br></div><div>
+  
+
+<br></div>]]></description>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>R4SnQI-hUcX03L-4UHAz8Q</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>-87.67914391101441</longitude>
+			<latitude>41.96654754140874</latitude>
+			<altitude>184.5829925531053</altitude>
+			<heading>140.2225597189457</heading>
+			<tilt>106.52451578563</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.99999999999999</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_00ED26CABC15BE0EBB65</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-87.67914391101441,41.96654754140874,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0098D5E5CC15AF3AA82A">
+		<name>Rachel&apos;s Favorite Place</name>
+		<description><![CDATA[<div dir="ltr"><div><div><div><div><div dir="ltr"><div><span><span>My favorite place is a spot under the crabapple tree just behind my childhood home in Naperville, Illinois. The light filters through the branches with their red berries like spun gold, and you can rest with a book or a pubescent crush underneath it and discover ants, love, and probably get the germs of some bird droppings on you. I'm glad to share this with you because I haven't been there in awhile and I fear the tree might think I've forgotten it, but through the network of household plants and window adjacent trees sending roots into the ground and adding oxygen to the air surrounding people who watch the viral Infinite Wrench, I believe my message may just reach the crabapple tree in question, and it will know anew, and with fresh evidence, that it is cherished.</span></span><br></div></div></div></div></div></div><div><br></div></div>]]></description>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>9Vbt_4rzobbSuF1oYD0BrA</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>-88.15181783253857</longitude>
+			<latitude>41.7117287645479</latitude>
+			<altitude>203.0228354209718</altitude>
+			<heading>97.13436919102598</heading>
+			<tilt>91.13965411478577</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.99999999999999</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_00ED26CABC15BE0EBB65</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-88.15181783253857,41.7117287645479,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0163CE490E15AA8CE8B6">
+		<name>Susan&apos;s Favorite Place </name>
+		<description><![CDATA[<div><span>The French Quarter in New Orleans, a relatively small area with distinctive architecture, culture, art and artisans, drinks, music, and, of course, food! There are many other wonderful places to visit that have fabulous cultural sites to explore, but when you step into the French Quarter, even from just across the street in downtown NOLA or one of the other districts, there is a unique feel of stepping into another time and place. And, there's bananas foster. As Remy McSwain says. "</span><span>Just relax, darlin'. This is the Big Easy. Folks have a certain way o' doin' things down here."</span><br></div>]]></description>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>Yd1pkPfPqBBxwVpDy-ty9A</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>-90.06658406739317</longitude>
+			<latitude>29.95597466428632</latitude>
+			<altitude>5.111158847808838</altitude>
+			<heading>16.50565550239203</heading>
+			<tilt>93.44860674807725</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.99999999999999</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_00ED26CABC15BE0EBB65</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-90.06658406739317,29.95597466428632,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0080BD0FAD15B09CD984">
+		<name>Neil&apos;s Favorite Place</name>
+		<description><![CDATA[<div>Growing up, I spent about a month every third or fourth summer visiting&nbsp;my family in India, and it wasn't til&nbsp;I was 18 years old that I stopped being a brat about it and realized how lucky I was and am. I've spent countless hours walking and playing and gazing from the rooftop of my grandparents' apartment building in Kolkata and I'm really kind of scared that I'll never be able to go up there, let alone see my grandmother, again.&nbsp;<br></div><div><br></div>]]></description>
+		<LookAt>
+			<longitude>88.41117697066619</longitude>
+			<latitude>22.60518299849795</latitude>
+			<altitude>7.096409049517023</altitude>
+			<heading>19.01752366975776</heading>
+			<tilt>43.14789563351422</tilt>
+			<gx:fovy>34.99999996541821</gx:fovy>
+			<range>479.2297789543227</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00ED26CABC15BE0EBB65</styleUrl>
+		<Point>
+			<coordinates>88.41117629999999,22.6051812,7.106001066738416</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F86FF70B915AF3D99D9">
+		<name>Jonah&apos;s Favorite Place</name>
+		<description><![CDATA[<div>My favorite place in the world is Valparaíso because the streets are lined with graffiti and covered in dog shit. There's an unparalleled beauty to this gritty industrial port and its hills filled with breathtaking views of multi-colored houses.&nbsp;</div>]]></description>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>vQNWvpI2-J-SXfsLZ4z0PA</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>-71.62978524721832</longitude>
+			<latitude>-33.04362541866076</latitude>
+			<altitude>96.01893664446347</altitude>
+			<heading>56.23580040371851</heading>
+			<tilt>80.8317410569079</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.99999975508605</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_00ED26CABC15BE0EBB65</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-71.62978524721832,-33.04362541866076,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="078247B2DC15B9F097C3">
+		<name>Next. </name>
+		<description><![CDATA[<div>Hope to see you all there someday.&nbsp;<br></div><div><br></div><div>Hopefully soon.&nbsp;<br></div><div><br></div>]]></description>
+		<styleUrl>#__managed_style_09C446A48B15BE0EBB61</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMclA4bGllSXd5T0MvdGpKTWNPN0tiNTNaTUNzV1VSZXBSS2tHU1pFdFA3V1RiWTZ3bnltWUlWYStGRVM3UlNscTJCWjJMQjlCVE8rcTZ3NmpaelorM0lyVTJRTEVJSitSdlBUTWJ5RnNONk9JSkRUUUgybGM4ZTB2Y1RzYjlYYnBMNWFUK2JsYTdXMnFOazhKSmZoalRlWXQxeHN5U2wvSEwwR1pQTmJseFFQRHBtdzhrUU9VR1dvM3pRc29ic2hkUjgyTzdvOXhmZVlLaUtFYmRvQm1IbjRqdnhLcGJaQVhrUDVTT0xUN093eSt1dCtXMnN5QTdSYzdSNE5RSHA0eHBGbkZkOSt5c0ZjaHBQSHRXQXdUbGNSSnBZRkE9PQ">
+				<gx:ImageUrl>https://doc-10-14-mymaps.googleusercontent.com/untrusted/hostedimage/ehl0h9et3rr8fh9e64cemg8puc/3t7ceik5k44nauiout2o5qij3k/1600020461000/RGqotgssSGB0YGWYgeyJEsml-JoqSz_4/09605093484831195373/5AF2TALpRwwNs73Od_IHhujhDKZaGM5N7hPeTndaraOpdQyfX5ZCcQXTmGyXgqBc_M7Sxy59zcnfQATC3qK1uqSolt8xb2_5nJmUYz36Xn3Jwc1Z2J4Wu1p1W6oJH9ak2b7CoLtWvvXlJPJwyuBvyWRrjrgSnoP7nTwCpy_rbTulO86TJsnnclwknebwaXbe2Ckdj-bR1XNMKakUAUyvO9-5WUihplnxJDkxBMhBpdjvfsNLwgG9G6yYlfXJAUAvCTyBNUuAUUULDpSOpntJRBht3mN3PlTAsGA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+	</Placemark>
+</Document>
+</kml>
